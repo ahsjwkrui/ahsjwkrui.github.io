@@ -1,0 +1,72 @@
+body {
+    background-color: #ededed;
+}
+header {
+    margin-bottom: 3rem;
+    background-color: #49f;
+}
+.menu-item {
+    padding: 1rem 0;
+}
+.menu-item a {
+    color: #fff;
+}
+
+.padding {
+    padding: 1rem;
+}
+
+main {
+    margin-bottom: 1rem;
+}
+main .section {
+    margin-bottom: 1rem;
+}
+
+.charpt-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #fff;
+}
+
+.charpt-logo {
+    width: 0%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.charpt-text {
+    height: 100%;
+    width: 100%;
+}
+
+main .right .section {
+    background-color: #fff;
+}
+
+.tag-wrapper {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 0.5rem 0;
+}
+
+.tag-item {
+    display: inline;
+    padding: 0.5rem 1rem;
+    margin:  0 0.5rem 0.5rem 0;
+    border-radius: 0.35rem;
+    color: #fff;
+    background-color: #49f;
+}
+
+footer {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+footer .left .section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+}
